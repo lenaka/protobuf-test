@@ -6,7 +6,7 @@
 
 \> npm run start
 
-####server (на 3001 порту)
+#### server (на 3001 порту)
 \> npm init
 
 \> node index.js
